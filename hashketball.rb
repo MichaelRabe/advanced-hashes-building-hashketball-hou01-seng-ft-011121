@@ -1,3 +1,3 @@
 require 'pry'
 
-game_hash = {}
+def game_hash = {}
